@@ -38,7 +38,7 @@ All work uses **SQL Server Integration Services (SSIS)** and **SQL Server Manage
 - Loaded expanded CSVs into both a **staging database (OLTP)** and a **warehouse (OLAP)**.  
 - Compared query speed and results between the two systems using revenue-by-customer, region, and year reports.  
 - Explained why OLAP warehouses are faster, safer, and more reliable for reporting.  
-- Wrote a client-facing report describing risks of using OLTP for analysis and benefits of OLAP for business decisions.  
+- Wrote a client-facing report (OLTP_vs_OLAP_Client_Consulting_Report.pdf) describing the risks of using OLTP for analysis and the benefits of OLAP for business decisions.
 
 ---
 

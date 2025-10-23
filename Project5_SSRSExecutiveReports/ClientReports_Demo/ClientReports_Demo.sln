@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ClientReports_Demo", "ClientReports_Demo.rptproj", "{97A04837-104B-4232-B49F-8B5DEDD48775}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9E00E80-7D16-4843-9FE5-4A929B6476C6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.Debug|Default.ActiveCfg = Debug
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.Debug|Default.Build.0 = Debug
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.Debug|Default.Deploy.0 = Debug
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.DebugLocal|Default.Build.0 = DebugLocal
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.Release|Default.ActiveCfg = Release
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.Release|Default.Build.0 = Release
+		{97A04837-104B-4232-B49F-8B5DEDD48775}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

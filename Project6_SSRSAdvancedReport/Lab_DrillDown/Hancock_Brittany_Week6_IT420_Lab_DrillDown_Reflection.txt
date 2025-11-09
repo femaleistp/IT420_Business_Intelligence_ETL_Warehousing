@@ -1,0 +1,6 @@
+Brittany Hancock
+IT420, Lenore Montalbano
+Lab 7: Adding Drill-Down to an SSRS Report
+Reflection
+
+Drill-down improves clarity for executives by providing a higher-level view of data, allowing them to quickly glance at the figures related to specific areas and expand on whichever they decide to investigate further. When all rows are visible, it is a lot of data and difficult to look through and make sense of. The report becomes cluttered with data, making it difficult to see the group totals that are missed among the subgroup data. When I can display category data, including titles and totals, the executive can explore further or request additional reports to gain further insights into business intelligence. Drilling down can provide executives with both broad and granular data to make informed decisions related to the business or the company's vision. They can access more information and request additional resources if needed.

@@ -1,0 +1,9 @@
+Brittany Hancock
+IT 420: Business Intelligence
+Instructor: Lenore Montalbano
+October 30, 2025
+Project 6: Reflective Memo
+
+Interactivity benefits executives with an SSRS report by providing increased autonomy in exploring data, specifically through the ability to drill down. They can be offered at-a-glance data pieces that may give them a lead to drill into specific categories or chunks. In our project, the executive could see the category total sales and decide whether to expand those categories to view product totals within. It can be extended even further, such as being able to expand the products to view specific sales data, like by region.
+
+We can maintain clarity by providing parameters that allow for interaction with the data to retrieve results for specific dates or time ranges. If an executive wants to see one date, they can, as well as a week, quarter, or year. This offers flexibility to clarify their questions related to the data, gather insight, and make more informed business decisions. They can also request additional reports or extensions of existing reports.

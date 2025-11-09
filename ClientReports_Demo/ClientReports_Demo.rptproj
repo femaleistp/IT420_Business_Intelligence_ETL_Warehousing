@@ -53,6 +53,8 @@
   </ItemGroup>
   <ItemGroup>
     <Report Include="SalesByCategory.rdl" />
+    <Report Include="SalesByCategoryDrilldown.rdl" />
+    <Report Include="SalesByCategoryParameter.rdl" />
     <Report Include="SalesByRegion.rdl" />
     <Report Include="SalesByRegionDrilldown.rdl" />
     <Report Include="Top10Products.rdl" />

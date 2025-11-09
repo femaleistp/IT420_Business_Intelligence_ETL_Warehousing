@@ -1,0 +1,8 @@
+Brittany Hancock
+IT 420: Business Intelligence
+Instructor: Lenore Montalbano
+November 9, 2025
+Project 7: Power BI Executive Dashboard
+Reflection Memo
+
+A dashboard is made for executives to view data in specific ways that help them make informed decisions quickly. It allows them to see if they are meeting targets or need to adjust resources, while giving options to focus by year or category using slicers. I learned how important cardinality is when relationships block filters from working, and how creating a DimYear table allowed the KPI to update correctly by year. This helped me understand business intelligence as creating tools that respond to what executives need to see and making sure they can load new data, explore it easily, and continue using it as the business grows.

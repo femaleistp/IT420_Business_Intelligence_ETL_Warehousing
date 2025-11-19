@@ -1,7 +1,0 @@
-Brittany Hancock
-IT420, Lenore Monatbano
-October 29, 2025
-Debug Challenge: Broken Parameter Query
-Reflection
-
-I added a JOIN from the FactSales table to the DimDate table using DateKey to connect and use the FullDate attribute, and then I added the missing part of the date range: "AND @EndDate," since it only had "BETWEEN @StartDate." Parameters are critical in executive reports because they enable users to select dates within a range without changing existing data. Executives need access to interactive reporting to get a brief overview and drill down into more meaningful data, such as which products are selling most in a category. 

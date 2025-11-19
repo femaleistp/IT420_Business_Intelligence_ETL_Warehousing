@@ -1,2 +1,0 @@
-Reflection:
-The hardest part of building this interactive SSRS report was getting the region to group properly and placing the subtotal in the region section without changing the data. I had to go back multiple times to understand how the group structure actually works instead of guessing. Through trial, error, and guidance, I learned that patience and observation are part of the process. Staying teachable helped me focus on what the software was showing me instead of forcing it to behave a certain way.

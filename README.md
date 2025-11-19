@@ -42,7 +42,7 @@ All work uses **SSIS**, **SSMS**, **SSRS**, and **Power BI** to design and deliv
 
 ### Week 4 – OLTP vs OLAP Consulting Report
 - Loaded expanded datasets into **staging (OLTP)** and the **warehouse (OLAP)**.  
-- Compared query performance across customer, region, and yearly reports.  
+- Compared query performance across customer and yearly totals using both systems.  
 - Explained why OLAP is required for BI reporting and why OLTP is risky for analytics.  
 - Delivered a client-facing report with evidence and recommendations.
 
@@ -77,11 +77,11 @@ All work uses **SSIS**, **SSMS**, **SSRS**, and **Power BI** to design and deliv
 ---
 
 ### Week 9 – Multi-Page Executive Dashboard
-- Expanded Week 8 into a complete multi-page executive decision-support system.  
-- Created a homepage with KPIs and three supporting pages (Product Mix, Product Detail, Region).  
-- Added navigation buttons and consistent formatting across all pages.  
-- Wrote a one–two paragraph Executive Summary.  
-- Exported the full dashboard packet and saved the `.pbix` file.
+- Expanded Week 8 into a complete multi-page executive decision-support system focused entirely on **Product Mix**.  
+- Created a homepage with KPI cards and three supporting pages: **Product Mix Overview**, **Product Profitability**, and **Top Products Overview**.  
+- Added page-navigation buttons, consistent formatting, and unified colors across all pages.  
+- Wrote a one–two paragraph Executive Summary explaining the dashboard’s purpose and structure.  
+- Exported the full dashboard packet and saved the `.pbix` file for the consulting portfolio.
 
 ---
 

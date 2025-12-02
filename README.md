@@ -85,6 +85,14 @@ All work uses **SSIS**, **SSMS**, **SSRS**, and **Power BI** to design and deliv
 
 ---
 
+### Week 10 – Predictive Insights Dashboard
+- Built a Power BI predictive-insights dashboard using clustering, segmentation, and trend analysis.  
+- Created new measures and visuals to identify high-performing products, at-risk segments, and forecast patterns.  
+- Added executive-level insight statements that interpret the trends and patterns directly from the data.  
+- Exported the dashboard as a PDF and saved the `.pbix` file and predictive-insights memo for the consulting portfolio.
+
+---
+
 ## Tools Used
 - SQL Server Management Studio (SSMS)  
 - SQL Server Integration Services (SSIS)  
@@ -109,6 +117,7 @@ Hancock_Brittany_IT420_Project_Solution/
 ├── Week7_Dashboard/  
 ├── Week8_StorytellingDashboard/  
 ├── Week9_ExecutiveDashboard/  
+├── Week10_PredictiveInsights/  
 └── README.md  
 
 ---
